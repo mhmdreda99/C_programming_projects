@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1554140833 source:c:\users\mr\desktop\control sys\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+
+1554141675 source:d:\c programming\projects\mr\control sys\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+

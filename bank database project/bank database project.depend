@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1587543620 source:c:\users\mohamed zaghlol\desktop\bank database project\bank database.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"bank database.h"
+
+1587543707 c:\users\mohamed zaghlol\desktop\bank database project\bank database.h
+
+1587543658 source:c:\users\mohamed zaghlol\desktop\bank database project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"bank database.h"
+
