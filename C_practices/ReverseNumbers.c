@@ -1,7 +1,7 @@
 /**
  * @file ReverseNumbers.c
  * @author Mohamed Reda
- * @brief progrm that Reverse any number entered from user
+ * @brief progrm that Reverse any number entered from
  * @version 0.1
  * @date 2020-12-21
  * 
