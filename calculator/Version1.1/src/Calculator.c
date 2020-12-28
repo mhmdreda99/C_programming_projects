@@ -4,7 +4,8 @@
  Author      : Mohamed Reda
  Version     :
  Copyright   : Your copyright notice
- Description : Hello World in C, Ansi-style
+ Description : in this file we implement main funiction that operates the calculator
+  
  ============================================================================
  */
 

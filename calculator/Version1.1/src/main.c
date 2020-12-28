@@ -4,11 +4,11 @@
  Author      : Mohamed Reda
  Version     :
  Copyright   : Your copyright notice
- Description : Hello World in C, Ansi-style
+ Description : this file contains the 
  ============================================================================
  */
 /*****************************************************************************
-*                               COMMON HEADER FILE
+*                               Module HEADER FILE
 *
 *****************************************************************************/
 #include "Calculator.h"
