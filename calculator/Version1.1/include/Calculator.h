@@ -1,8 +1,12 @@
-/*
- * Calculator.h
- *
- *  Created on: Dec 28, 2020
- *      Author: Mohamed Reda
+/**
+ * @file Calculator.h
+ * @author mhmdreda99 (Moreda491999@gmail.com)
+ * @brief 
+ * @version 0.1
+ * @date 2020-12-31
+ * 
+ * @copyright Copyright (c) 2020
+ * 
  */
 
 #ifndef CALCULATOR_H_

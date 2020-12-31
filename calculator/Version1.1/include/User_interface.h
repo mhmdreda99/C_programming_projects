@@ -1,4 +1,13 @@
-
+/**
+ * @file User_interface.h
+ * @author your name (you@domain.com)
+ * @brief 
+ * @version 0.1
+ * @date 2020-12-28
+ * 
+ * @copyright Copyright (c) 2020
+ * 
+ */
 #ifndef USER_INTERFACE_H_
 #define USER_INTERFACE_H_
 /*****************************************************************************

@@ -1,28 +1,31 @@
-/*
- ============================================================================
- Name        : Calculator.c
- Author      : Mohamed Reda
- Version     :
- Copyright   : Your copyright notice
- Description : in this file we implement main funiction that operates the calculator
-  
- ============================================================================
+
+
+  /**
+ * @file Calculator.c
+ * @author mhmdreda99 (Moreda491999@gmail.com)
+ * @brief 
+ * @version 1.1
+ * @date 2020-12-28
+ * 
+ * @copyright Copyright (c) 2020
+ * 
  */
+ 
 
 /*****************************************************************************
 *                               Module HEADER FILE
 *
 *****************************************************************************/
-#include "Calculator.h"
+#include "../include/Calculator.h"
 
 /*****************************************************************************
 *                             Private  FUNCTIONS Prototypes
 *
 *****************************************************************************/
 static void add(void);//addition
-static void sub(void);//subtraction
-static void mul(void);//multiplication
-static void div(void); //division
+static void subtract(void);//subtraction
+static void multiply(void);//multiplication
+static void divide(void); //division
 static void Calc_logic(void); // operates other function
 
 /*****************************************************************************
@@ -46,13 +49,13 @@ static void Calc_logic(void){
 		add();
 		break;
 	case '-':
-			sub();
+			subtract();
 			break;
 	case '*':
-			mul();
+			multiply();
 			break;
 	case '/':
-			div();
+			divide();
 			break;
 	default:
 		break;
@@ -65,12 +68,12 @@ static void Calc_logic(void){
 static void add(void){
 	result=num1 + num2 ;
 }
-static void sub(void){
+static void subtract(void){
 	result=num1 - num2 ;
 }
-static void mul(void){
+static void multiply(void){
 	result=num1 * num2 ;
 }
-static void div(void){
+static void divide(void){
 	result=num1 / num2 ;
 }
