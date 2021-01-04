@@ -1,6 +1,6 @@
 /**
  * @file User_interface.h
- * @author your name (you@domain.com)
+ * @author Mohamed Reda (mhmdreda99@github.com)
  * @brief 
  * @version 0.1
  * @date 2020-12-28

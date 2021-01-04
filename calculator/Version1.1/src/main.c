@@ -25,7 +25,7 @@
  * @return int  for ending program
  */
 int main(){
-	// call main application then enjoy^^-^
+	// call main application then enjoy^-^
 	Calc_App();
 	return 0 ;
 }
